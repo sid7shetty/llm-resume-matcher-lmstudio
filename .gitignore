@@ -1,0 +1,13 @@
+
+---
+
+### 🧼 STEP 4: **Create `.gitignore`**
+
+Avoid uploading your virtual environment:
+
+```txt
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
