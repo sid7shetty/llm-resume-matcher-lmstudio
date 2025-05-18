@@ -9,7 +9,9 @@ A local, private, and offline Resume Matcher using LLMs via LM Studio. Calculate
 - 100% local, no OpenAI API required
 
 ## 📸 Demo
-![Demo](screenshot\demo.gif)
+
+![Demo](screenshot/demo.gif)
+
 
 ## ⚙️ Setup
 ```bash
