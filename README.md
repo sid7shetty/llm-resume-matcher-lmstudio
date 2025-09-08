@@ -15,7 +15,7 @@ A local, private, and offline Resume Matcher using LLMs via LM Studio. Calculate
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-resume-matcher-lmstudio.git
+git clone https://github.com/sid7shetty/llm-resume-matcher-lmstudio.git
 cd llm-resume-matcher-lmstudio
 pip install -r requirements.txt
 streamlit run app.py
